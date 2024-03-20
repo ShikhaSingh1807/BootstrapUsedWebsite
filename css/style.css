@@ -1,0 +1,107 @@
+.logo_style {
+    height: 3em;
+    width: 3em;
+    margin-top: 0.5em;
+}
+
+.navbg {
+    background-color: maroon;
+    /* border-bottom: 0.8em solid bisque; */
+}
+
+h1 {
+    margin: 0;
+}
+
+.card_section {
+    margin: 1em;
+}
+
+.height-100 {
+    height: 100vh;
+}
+
+.card-rt {
+    width: 380px;
+    border: none;
+    height: 280px;
+
+}
+
+.card_style {
+    width: 18rem;
+    margin: 1.5em;
+}
+
+.ratings {
+    margin-right: 10px;
+}
+
+.ratings i {
+
+    color: #cecece;
+    font-size: 32px;
+}
+
+.rating-color {
+    color: #fbc634 !important;
+}
+
+.review-count {
+    font-weight: 200;
+    font-size: 20px !important;
+}
+
+.small-ratings i {
+    color: #cecece;
+}
+
+.review-stat {
+    font-weight: 300;
+    font-size: 18px;
+    margin-bottom: 2px;
+}
+
+.corousel_img {
+    height: 80vh;
+    padding: 0.5em;
+    border: 1em solid bisque;
+}
+
+.link_style {
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 0.5em;
+}
+
+.msg {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: coral;
+}
+
+.sec_style {
+    margin: 0em 0.8em;
+    border-bottom: 5px solid maroon;
+}
+
+.gutter_style {
+    border: 5px solid black;
+}
+
+.rating_style {
+    border: 5px solid cornflowerblue;
+    height: 50vh;
+    margin: 0;
+}
+
+.copyright_style {
+    color: bisque;
+}
+
+.social_style {
+    font-size: 30px;
+    color: bisque;
+}

@@ -1,0 +1,23 @@
+{
+  "name": "ssbanquetandhotels",
+  "version": "1.0.0",
+  "description": "This is a statis web page for SS Banquet and Hotels , created as Assignment for BootStrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.stackroute.in/shikhas/bootstrap-assignment-1.git"
+  },
+  "keywords": [
+    "HTML5",
+    "CSS3",
+    "Bootstrap5"
+  ],
+  "author": "Shikha Singh",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
